@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/github.com/react_deploy_gh/static/css/main.4ab54d94.css",
-    "main.js": "/github.com/react_deploy_gh/static/js/main.f5ba9ca8.js",
-    "index.html": "/github.com/react_deploy_gh/index.html",
-    "main.4ab54d94.css.map": "/github.com/react_deploy_gh/static/css/main.4ab54d94.css.map",
-    "main.f5ba9ca8.js.map": "/github.com/react_deploy_gh/static/js/main.f5ba9ca8.js.map"
+    "main.css": "/react_deploy_gh/static/css/main.4ab54d94.css",
+    "main.js": "/react_deploy_gh/static/js/main.f5ba9ca8.js",
+    "index.html": "/react_deploy_gh/index.html",
+    "main.4ab54d94.css.map": "/react_deploy_gh/static/css/main.4ab54d94.css.map",
+    "main.f5ba9ca8.js.map": "/react_deploy_gh/static/js/main.f5ba9ca8.js.map"
   },
   "entrypoints": [
     "static/css/main.4ab54d94.css",
