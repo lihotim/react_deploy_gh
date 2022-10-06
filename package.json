@@ -1,7 +1,7 @@
 {
   "name": "react-tut-16",
   "version": "0.1.0",
-  "homepage": "https://github.com/timli-cp/react_deploy_gh",
+  "homepage": "https://timli-cp/github.com/react_deploy_gh",
   "private": true,
   "dependencies": {
     "axios": "^0.27.2",
